@@ -3,16 +3,16 @@
 		"width": 360,
 		"height": 200,
 		"order": 3,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": -180,
+		"offsetY": -353,
 		"enabled": true
 	},
 	"hiCard": {
 		"width": 360,
 		"height": 288,
 		"order": 1,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": -180,
+		"offsetY": -122,
 		"enabled": true
 	},
 	"clockCard": {
@@ -61,8 +61,8 @@
 		"width": 266,
 		"height": 160,
 		"order": 8,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": -437,
+		"offsetY": 200,
 		"enabled": true
 	},
 	"writeButtons": {
@@ -77,8 +77,8 @@
 		"width": 280,
 		"height": 434,
 		"order": 2,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": -496,
+		"offsetY": -269,
 		"enabled": true
 	},
 	"likePosition": {
