@@ -44,7 +44,22 @@
 		}
 	],
 	"currentBackgroundImageId": "",
-	"socialButtons": [],
+	"socialButtons": [
+		{
+			"id": "button-1765815300179",
+			"type": "email",
+			"value": "yurikko@163.com",
+			"label": "",
+			"order": 1
+		},
+		{
+			"id": "button-1765815320799",
+			"type": "qq",
+			"value": "1109663745",
+			"label": "",
+			"order": 1
+		}
+	],
 	"clockShowSeconds": false,
 	"summaryInContent": false,
 	"isCachePem": false,
