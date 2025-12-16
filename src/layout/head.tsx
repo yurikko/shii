@@ -12,7 +12,8 @@ export default function Head() {
 			<link rel='preconnect' href='https://fonts.gstatic.cn' crossOrigin='anonymous' />
 
 			<link href='https://fonts.googleapis.cn/css2?family=Averia+Gruesa+Libre&display=swap' rel='stylesheet' />
-			<link rel='stylesheet' href='https://chinese-fonts-cdn.deno.dev/packages/syst/dist/SourceHanSerifCN/result.css' />
+			<link href='https://chinese-fonts-cdn.deno.dev/packages/syst/dist/SourceHanSerifCN/result.css' rel='stylesheet' />
+			<link href='https://chinese-fonts-cdn.deno.dev/packages/lxgwwenkaibright/dist/LXGWBright-Regular/result.css' rel='stylesheet' />
 			
 			<Script src='https://www.googletagmanager.com/gtag/js?id=G-ZNSFR7C9PM' />
 			<Script id='google-analytics'>
