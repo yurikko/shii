@@ -20,16 +20,16 @@
 		"height": 132,
 		"offset": 92,
 		"order": 4,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": 217,
+		"offsetY": -287,
 		"enabled": true
 	},
 	"calendarCard": {
-		"width": 350,
-		"height": 286,
+		"width": 348,
+		"height": 338,
 		"order": 5,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": 213,
+		"offsetY": -118,
 		"enabled": true
 	},
 	"musicCard": {
@@ -45,32 +45,32 @@
 		"width": 315,
 		"height": 48,
 		"order": 6,
-		"offsetX": null,
-		"offsetY": null,
-		"enabled": false
+		"offsetX": 135,
+		"offsetY": 301,
+		"enabled": true
 	},
 	"shareCard": {
 		"width": 200,
 		"height": 180,
 		"order": 7,
-		"offsetX": null,
-		"offsetY": null,
-		"enabled": false
+		"offsetX": 33,
+		"offsetY": 33,
+		"enabled": true
 	},
 	"articleCard": {
 		"width": 266,
 		"height": 160,
 		"order": 8,
-		"offsetX": -437,
-		"offsetY": 200,
+		"offsetX": -415,
+		"offsetY": 208,
 		"enabled": true
 	},
 	"writeButtons": {
 		"height": 42,
 		"width": 180,
-		"order": 8,
-		"offsetX": null,
-		"offsetY": null,
+		"order": 9,
+		"offsetX": -45,
+		"offsetY": 238,
 		"enabled": true
 	},
 	"navCard": {
